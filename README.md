@@ -6,6 +6,9 @@ This project powers the automated B2B lead generation and outbound marketing pip
 
 The primary purpose of this toolset is to automate large-scale lead discovery, extraction, data cleaning, and personalized outreach targeting athletic directors, head soccer coaches, and athletic staff across high schools and colleges nationwide.
 
+![Project Workflow Chart](./workflow_chart.jpg)
+
+
 ---
 
 ## Workflow Architecture
@@ -29,9 +32,11 @@ The primary purpose of this toolset is to automate large-scale lead discovery, e
 
 ---
 
-## Business Impact & ROI
+> [!IMPORTANT]
+> ### Business Impact & ROI
+> 
+> Automating this complete pipeline—from web discovery to personalized inbox delivery—provided significant operational and financial savings for the startup:
+> 
+> * **Time Saved**: Estimated **250+ hours** of manual web research, copying/pasting, list cleaning, and individual email drafting.
+> * **Cost Saved**: Estimated **\$5,000 – \$8,000+** saved compared to hiring data-entry freelancers, purchasing static lead lists, or subscribing to enterprise sales intelligence tools.
 
-Automating this complete pipeline—from web discovery to personalized inbox delivery—provided significant operational and financial savings for the startup:
-
-* **Time Saved**: Estimated **250+ hours** of manual web research, copying/pasting, list cleaning, and individual email drafting.
-* **Cost Saved**: Estimated **\$5,000 – \$8,000+** saved compared to hiring data-entry freelancers, purchasing static lead lists, or subscribing to enterprise sales intelligence tools.
