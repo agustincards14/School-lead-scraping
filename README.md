@@ -34,4 +34,4 @@ The primary purpose of this toolset is to automate large-scale lead discovery, e
 Automating this complete pipeline—from web discovery to personalized inbox delivery—provided significant operational and financial savings for the startup:
 
 * **Time Saved**: Estimated **250+ hours** of manual web research, copying/pasting, list cleaning, and individual email drafting.
-* **Cost Saved**: Estimated **$5,000 – $8,000+** saved compared to hiring data-entry freelancers, purchasing static lead lists, or subscribing to enterprise sales intelligence tools.
+* **Cost Saved**: Estimated **\$5,000 – \$8,000+** saved compared to hiring data-entry freelancers, purchasing static lead lists, or subscribing to enterprise sales intelligence tools.
