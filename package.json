@@ -1,0 +1,26 @@
+{
+  "name": "statpad_school_leads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "clean": "node scripts/clean_data.js",
+    "ts": "NODE_OPTIONS='--loader ts-node/esm' ts-node",
+    "postinstall": "npx playwright install chromium --with-deps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.9.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.45.0",
+    "csv": "^6.0.5"
+  }
+}

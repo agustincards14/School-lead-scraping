@@ -1,0 +1,20 @@
+
+# System & OS
+.DS_Store
+*.DS_Store
+*.bak
+
+# Node & Dependencies
+node_modules/
+
+# Playwright Outputs & Temp
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+tmp/
+
+# Ignored Data & Auxiliary Folders
+assets/
+apps_script/
+examples/
